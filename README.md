@@ -4,6 +4,6 @@
 
 ---
 
-### Cognitive Scientist | From Cordoba to Osnabrück 🇦🇷 | 🇩🇪
+### Cognitive Scientist | From Córdoba to Osnabrück 
 
 
