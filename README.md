@@ -1,10 +1,9 @@
 <div align="center">
-  <h1>👋 Hola, Soy Martín</h1>
+  <h1> Hi, here Martín</h1>
 </div>
 
 ---
 
-### 🧠 Cognitive Scientist | Cordoba → Osnabrück
+### Cognitive Scientist | From Cordoba to Osnabrück 🇦🇷 | 🇩🇪
 
-🇦🇷 | 🇩🇪
 
